@@ -73,3 +73,5 @@ lazyimages: "disabled"
 exclude: [changelog.md, LICENSE.txt, README.md, Gemfile, Gemfile.lock]
 
 remote_theme : wowthemesnet/mediumish-theme-jekyll
+
+theme: jekyll-theme-cayman
